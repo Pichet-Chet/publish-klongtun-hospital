@@ -1,0 +1,7 @@
+﻿@KTH.API_HostAddress = http://localhost:5049
+
+GET {{KTH.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
