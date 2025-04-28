@@ -1,0 +1,22 @@
+{
+  "title": "Please log in to make appointment",
+  "form": {
+    "countryCode": "Country Code",
+    "telephoneNumber": "Phone",
+    "dateOfBirth": "Birthday"
+  },
+  "btn": {
+    "btnCancel": "Cancel",
+    "btnLogin": "Login",
+    "btnVerLogin": "OK",
+    "btnRegister": "please register",
+    "btnReCheck": "Try again"
+  },
+  "alert": {
+    "loginTitle": "Some information is incorrect. Please try again."
+  },
+  "footer": "If you don't have an account, ",
+  "validate": {
+    "field": "This field is required"
+  }
+}

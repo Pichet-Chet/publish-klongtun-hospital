@@ -1,0 +1,75 @@
+/* For devices with a maximum width of 768px (tablets and below) */
+/* General styles for mobile-first approach */
+.app-content {
+  padding: 10px;
+  margin: 0 auto;
+  width: 100%; /* Full width on small devices */
+  max-width: 100%; /* Prevents overflow */
+  box-sizing: border-box; /* Ensures padding doesn't add extra width */
+}
+
+/* Larger screens (tablets and above) */
+@media (min-width: 768px) {
+  .app-content {
+    padding: 20px;
+    width: 90%; /* Adjusts the width for larger screens */
+    max-width: 1000px; /* Set a maximum width for larger devices */
+  }
+}
+
+/* Extra large screens (desktops) */
+@media (min-width: 1200px) {
+  .app-content {
+    padding: 30px;
+    width: 80%; /* Further reduce the width for large displays */
+    max-width: 1200px; /* Max width for very large devices */
+  }
+}
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+body {
+  font-family: "Sarabun", sans-serif;
+}
+
+.shadow-sm {
+  box-shadow: rgb(0 0 0 / 16%) 0px 0.125rem 0.35rem !important;
+}
