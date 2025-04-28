@@ -1,0 +1,6 @@
+{
+  "validate": {
+    "field": "This field is required",
+    "max256": "Please provide information not exceeding 256 characters"
+  }
+}

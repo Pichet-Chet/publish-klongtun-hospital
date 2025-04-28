@@ -1,0 +1,83 @@
+{
+  "title": "Patient Registration, Family Planning Department",
+  "titleDetail": "Your personal information and medical history will be kept confidential.",
+  "titleDetailOTP": "Please provide your mobile phone number and date of birth before proceeding with the registration process.",
+  "registerDetail": {
+    "header": {
+      "information": "Personal Information",
+      "other": "Information for treatment",
+      "service": "Appointment information"
+    },
+    "form": {
+      "tranSaleRefCode": "Consultant",
+      "fullName": "Full name",
+      "citizenIdentification": "CitizenIdentification",
+      "passportNumber": "Passport no.",
+      "address": "Address",
+      "dateOfBirth": "Birthday",
+      "telephoneNumber": "Phone",
+      "masterNationality": "Nationality",
+      "lastMonthlyPeriod": "Last menstrual period",
+      "gestationalAge": "Gestational age (weeks)",
+      "historyOfCesareanSection": "Have you ever had a cesarean section?",
+      "marriedOrBoyfriend": "Marriage/Having a boyfriend",
+      "drugAllergy": "History of drug allergy",
+      "congenitalDisease": "Congenital disease",
+      "reasonTermination": "Reason for abortion",
+      "informationToDoctor": "Additional information to the doctors",
+      "receiveServiceDate": "Please select the date"
+    },
+    "fixOption": {
+      "historyOfCesareanSection": {
+        "yes": "Yes",
+        "no": "No"
+      },
+      "marriedOrBoyfriend": {
+        "yes": "Yes",
+        "no": "No"
+      }
+    },
+    "alert": {
+      "title": "Your appointment is",
+      "submitSuccess": "Submit success"
+    },
+    "btn": {
+      "btnOk": "OK",
+      "btnConfirm": "Confirm",
+      "btnCancel": "Cancel",
+      "btnSubmit": "Submit",
+      "btnRegister": "Submit",
+      "btnEdit": "Back to edit"
+    },
+    "validate": {
+      "field": "This field is required",
+      "max256": "Please provide information not exceeding 256 characters"
+    }
+  },
+  "registerOtp": {
+    "titleResendOTP": "Time Remaining",
+    "form": {
+      "telephoneNumber": "Phone",
+      "dateOfBirth": "Birthday",
+      "refCode": "OTP Ref.",
+      "otpCode": "OTP Code."
+    },
+    "alert": {
+      "noRef": "No data ref code",
+      "checkData": "Data is already",
+      "requestOtp": "Request OTP success",
+      "submitOtp": "Submit OTP success"
+    },
+    "btn": {
+      "btnCancel": "Cancel",
+      "btnRequestCheckPhone": "Check Data",
+      "btnSubmitOtp": "Submit OTP",
+      "btnOk": "OK",
+      "btnReCheck": "Try again",
+      "btnResendOTP": "Resend OTP"
+    },
+    "validate": {
+      "field": "This field is required"
+    }
+  }
+}

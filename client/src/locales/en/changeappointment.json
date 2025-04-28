@@ -1,0 +1,30 @@
+{
+  "title": "Hello, ",
+  "appointmentDetail": {
+    "form": {
+      "receiveServiceDate": "Your appointment date",
+      "appointmentData": "Please select appointment date"
+    },
+    "alert": {
+      "title": "Patient Registration Family Planning Department, Klongtun Hospital",
+      "cancelComfirmAppointmentTitle": "Please confirm the cancellation of the appointment?",
+      "postponeComfirmAppointmentTitle": "You want to change your appointment to",
+      "cancelAppointmentTitle": "Cancel appointment completed",
+      "postponeAppointmentTitle": "The appointment has been successfully rescheduled."
+    },
+    "btn": {
+      "btnCancelAppointment": "Cancel appointment",
+      "btnPostponeAppointment": "Postpone appointment",
+      "btnCancel": "Cancel",
+      "btnOk": "OK",
+      "btnBack": "Back",
+      "btnCancelAppointmentConfirm": "Confirm",
+      "btnCancelAppointmentCancel": "Cancel",
+      "btnPostponeAppointmentConfirm": "Confirm",
+      "btnPostponeAppointmentEdit": "Back to edit"
+    },
+    "validate": {
+      "field": "This field is required"
+    }
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "title": "ลงทะเบียนเพื่อรับบริการแผนกวางแผนครอบครัว",
+  "titleDetail": "ข้อมูลเพื่อลงทะเบียนเข้ารับการรักษาที่โรงพยาบาลคลองตัน และประวัติการรักษาจะถูกเก็บไว้เป็นความลับ",
+  "titleDetailOTP": "กรุณาระบุเบอร์โทรศัพท์มือถือและวันเกิดของคุณก่อนเข้าสู่ขั้นตอนการลงทะเบียน",
+  "registerDetail": {
+    "header": {
+      "information": "ข้อมูลส่วนตัว",
+      "other": "ข้อมูลอื่นๆ",
+      "service": "ข้อมูลการเข้ารับบริการ"
+    },
+    "form": {
+      "tranSaleRefCode": "ผู้แนะนำ",
+      "fullName": "ชื่อ - นามสกุล",
+      "citizenIdentification": "บัตรประชาชน (เพื่อสิทธิ์ในการลดหย่อน สปสช.)",
+      "passportNumber": "พาสปอร์ต (เพื่อสิทธิ์ในการลดหย่อน สปสช.)",
+      "address": "ที่อยู่",
+      "dateOfBirth": "วันเกิด",
+      "telephoneNumber": "เบอร์โทรศัพท์มือถือ",
+      "masterNationality": "สัญชาติ",
+      "lastMonthlyPeriod": "ประจำเดือนครั้งล่าสุด",
+      "gestationalAge": "อายุครรภ์ (สัปดาห์)",
+      "historyOfCesareanSection": "ประวัติการผ่าคลอด",
+      "marriedOrBoyfriend": "การแต่งงาน / มีแฟน หรือไม่",
+      "drugAllergy": "ประวัติการแพ้ยา",
+      "congenitalDisease": "โรคประจำตัว",
+      "reasonTermination": "เหตุผลการยุติฯ",
+      "informationToDoctor": "ข้อมูลเพิ่มเติมถึงแพทย์",
+      "receiveServiceDate": "กรุณาเลือกวันที่ที่ต้องการเข้ารับบริการ"
+    },
+    "fixOption": {
+      "historyOfCesareanSection": {
+        "yes": "เคย",
+        "no": "ไม่เคย"
+      },
+      "marriedOrBoyfriend": {
+        "yes": "มี",
+        "no": "ไม่มี"
+      }
+    },
+    "alert": {
+      "title": "คิวนัดรับบริการแผนกวางแผนครอบครัว",
+      "submitSuccess": "ทำรายการสำเร็จ"
+    },
+    "btn": {
+      "btnOk": "ยืนยัน",
+      "btnConfirm": "ยืนยัน",
+      "btnCancel": "ยกเลิก",
+      "btnSubmit": "เข้าสู่ระบบ",
+      "btnRegister": "ลงทะเบียน",
+      "btnEdit": "แก้ไข"
+    },
+    "validate": {
+      "field": "กรุณาระบุข้อมูล",
+      "max256": "กรุณาระบุข้อมูลไม่เกิน 256 ตัวอักษร"
+    }
+  },
+  "registerOtp": {
+    "titleResendOTP": "เวลาที่เหลืออยู่",
+    "form": {
+      "telephoneNumber": "หมายเลขโทรศัพท์มือถือ",
+      "dateOfBirth": "วันเกิด",
+      "refCode": "รหัสอ้างอิง",
+      "otpCode": "รหัส OTP"
+    },
+    "alert": {
+      "noRef": "ไม่มีข้อมูล ref code",
+      "checkData": "มีข้อมูลนี้ในระบบแล้ว",
+      "requestOtp": "ขอ OTP สำเร็จ",
+      "submitOtp": "ยืนยัน OTP สำเร็จ"
+    },
+    "btn": {
+      "btnCancel": "ยกเลิก",
+      "btnRequestCheckPhone": "ตรวจสอบข้อมูล",
+      "btnSubmitOtp": "ยืนยัน OTP",
+      "btnOk": "ตกลง",
+      "btnReCheck": "ลองใหม่",
+      "btnResendOTP": "ขอ OTP ใหม่"
+    },
+    "validate": {
+      "field": "กรุณาระบุข้อมูล"
+    }
+  }
+}

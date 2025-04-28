@@ -1,0 +1,47 @@
+{
+  "title": "สวัสดีครับ คุณ",
+  "bookingDetail": {
+    "header": {
+      "information": "ข้อมูลส่วนตัว",
+      "other": "ข้อมูลอื่นๆ",
+      "service": "ข้อมูลการเข้ารับบริการ"
+    },
+    "form": {
+      "fullName": "ชื่อ - นามสกุล",
+      "citizenIdentification": "บัตรประชาชน (เพื่อสิทธิ์ในการลดหย่อน สปสช.)",
+      "address": "ที่อยู่",
+      "dateOfBirth": "วันเกิด",
+      "telephoneNumber": "เบอร์โทรศัพท์มือถือ",
+      "masterNationality": "สัญชาติ",
+      "lastMonthlyPeriod": "ประจำเดือนครั้งล่าสุด",
+      "gestationalAge": "อายุครรภ์ (สัปดาห์)",
+      "historyOfCesareanSection": "ประวัติการผ่าคลอด",
+      "marriedOrBoyfriend": "การแต่งงาน / มีแฟน หรือไม่",
+      "drugAllergy": "ประวัติการแพ้ยา",
+      "congenitalDisease": "โรคประจำตัว",
+      "reasonTermination": "เหตุผลการยุติฯ",
+      "informationToDoctor": "ข้อมูลเพิ่มเติมถึงแพทย์",
+      "receiveServiceDate": "กรุณาเลือกวันที่ที่ต้องการเข้ารับบริการ"
+    },
+    "fixOption": {
+      "historyOfCesareanSection": {
+        "yes": "เคย",
+        "no": "ไม่เคย"
+      },
+      "marriedOrBoyfriend": {
+        "yes": "มี",
+        "no": "ไม่มี"
+      }
+    },
+    "alert": {
+      "title": "คิวนัดรับบริการแผนกวางแผนครอบครัว",
+      "submitSuccess": "ทำรายการสำเร็จ"
+    },
+    "btn": {
+      "btnOk": "ยืนยัน",
+      "btnEdit": "แก้ไข",
+      "btnCancel": "ยกเลิก",
+      "btnSubmit": "จองคิว"
+    }
+  }
+}

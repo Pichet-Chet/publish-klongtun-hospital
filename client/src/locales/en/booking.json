@@ -1,0 +1,47 @@
+{
+  "title": "Hello, ",
+  "bookingDetail": {
+    "header": {
+      "information": "Personal Information",
+      "other": "Information for treatment",
+      "service": "Appointment information"
+    },
+    "form": {
+      "fullName": "Full name",
+      "citizenIdentification": "CitizenIdentification",
+      "address": "Address",
+      "dateOfBirth": "Birthday",
+      "telephoneNumber": "Phone",
+      "masterNationality": "Nationality",
+      "lastMonthlyPeriod": "Last menstrual period",
+      "gestationalAge": "Gestational age (weeks)",
+      "historyOfCesareanSection": "Have you ever had a cesarean section?",
+      "marriedOrBoyfriend": "Marriage/Having a boyfriend",
+      "drugAllergy": "History of drug allergy",
+      "congenitalDisease": "Congenital disease",
+      "reasonTermination": "Reason for abortion",
+      "informationToDoctor": "Additional information to the doctors",
+      "receiveServiceDate": "Please select the date"
+    },
+    "fixOption": {
+      "historyOfCesareanSection": {
+        "yes": "Yes",
+        "no": "No"
+      },
+      "marriedOrBoyfriend": {
+        "yes": "Yes",
+        "no": "No"
+      }
+    },
+    "alert": {
+      "title": "Your appointment is",
+      "submitSuccess": "Submit success"
+    },
+    "btn": {
+      "btnOk": "OK",
+      "btnEdit": "Back to edit",
+      "btnCancel": "Cancel",
+      "btnSubmit": "Make appointment"
+    }
+  }
+}

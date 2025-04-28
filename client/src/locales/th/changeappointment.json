@@ -1,0 +1,30 @@
+{
+  "title": "สวัสดีครับ คุณ",
+  "appointmentDetail": {
+    "form": {
+      "receiveServiceDate": "ข้อมูลการนัดหมายเพื่อเข้ารับบริการของคุณ",
+      "appointmentData": "กรุณาเลือกวันที่ที่ต้องการ"
+    },
+    "alert": {
+      "title": "คิวนัดรับบริการแผนกวางแผนครอบครัว",
+      "cancelComfirmAppointmentTitle": "ต้องการยกเลิกคิวนัดรับบริการ หรือไม่",
+      "postponeComfirmAppointmentTitle": "คุณต้องการเปลี่ยนคิวนัดรับบริการเป็น",
+      "cancelAppointmentTitle": "ยกเลิกนัดสำเร็จ",
+      "postponeAppointmentTitle": "เลื่อนนัดสำเร็จ"
+    },
+    "btn": {
+      "btnCancelAppointment": "ยกเลิกนัด",
+      "btnPostponeAppointment": "เลื่อนนัด",
+      "btnCancel": "ยกเลิก",
+      "btnOk": "ตกลง",
+      "btnBack": "กลับ",
+      "btnCancelAppointmentConfirm": "ยืนยัน",
+      "btnCancelAppointmentCancel": "ยกเลิก",
+      "btnPostponeAppointmentConfirm": "ยืนยัน",
+      "btnPostponeAppointmentEdit": "แก้ไข"
+    },
+    "validate": {
+      "field": "กรุณาระบุข้อมูล"
+    }
+  }
+}
